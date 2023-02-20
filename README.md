@@ -19,7 +19,7 @@
 
 ## <👨‍💻 About Me>
 
-My name is **Omkar Kulkarni** and I am a junior pursuing my Bachelor's in Artificial Intelligence & Data Science from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source**💻. I am a Linux Foundation Scholar 2022 (LiFT 2022) among the top 50 people around the world in **Open-Source Newbie category**. I believe Learning in public and I like to meet awesome people around the globe.
+My name is **Jayesh Khanadre** and I am a junior pursuing my Bachelor's in Artificial Intelligence & Data Science from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source**💻. I am a Linux Foundation Scholar 2022 (LiFT 2022) among the top 50 people around the world in **Open-Source Newbie category**. I believe Learning in public and I like to meet awesome people around the globe.
 
 <h1 align = "center">
   
