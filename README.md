@@ -19,14 +19,13 @@
 
 ## <👨‍💻 About Me>
 
-My name is **Jayesh Khanadre** and I am a junior pursuing my Bachelor's in Artificial Intelligence & Data Science from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source**💻. I am a Linux Foundation Scholar 2022 (LiFT 2022) among the top 50 people around the world in **Open-Source Newbie category**. I believe Learning in public and I like to meet awesome people around the globe.
-
+My name is **Jayesh Khanadre** and I am pursuing Master in Computer Application with experience in Python and Machine Learning algorithms. Proficient in Python, SQL, and Machine Learning libraries such as Numpy, Pandas and Scikit-learn. Passionate about exploring new technologies and applying them to solve real-world problems. And data cleaning, data wrangling, and developing predictive models. Passionate about leveraging data science to drive business growth and optimize processes. Seeking a challenging role in a data-driven organization where I can apply my skills to develop actionable insights and drive data-based decision-making.
 <h1 align = "center">
   
-  <a href="https://twitter.com/Omkarstwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/omkar-kulkarni-a3b213207/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <!-- <a href="https://twitter.com/Omkarstwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> -->
+</a> <a href="https://www.linkedin.com/in/jayesh-khandare-baa207193/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://hashnode.com/@Omkar0114"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+ <!-- <a href="https://hashnode.com/@Omkar0114"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> -->
 
 </h1>
    
