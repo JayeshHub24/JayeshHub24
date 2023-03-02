@@ -35,7 +35,6 @@ My name is **Jayesh Khanadre** and I am pursuing Master in Computer Application 
 
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![MySQL] (href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/)  
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
